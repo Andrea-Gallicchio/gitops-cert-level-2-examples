@@ -27,4 +27,3 @@ spec:
     kind: Deployment
     jsonPointers:
     - /metadata/annotations
-    - /spec/template/metadata/annotations
